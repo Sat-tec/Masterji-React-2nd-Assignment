@@ -15,11 +15,13 @@ Shows jokes with static author details and randomly generated analytics. The twe
 Lists cats with horizontal scrolling and pagination. Includes a creative loading state for the cards.
 
 ## Screenshots
-# url: 
+# url: https://main--react-second-assignment.netlify.app/
 ![/ Screenshot](../react-assignment/src/assets/images/Random-User-Profile.png)
 
+# url: https://main--react-second-assignment.netlify.app/random-jokes
 ![/random-jokes Screenshot](../react-assignment/src/assets/images/Random-Jokes.png)
 
+# url: https://main--react-second-assignment.netlify.app/cats-listing
 ![/cats-listing Screenshot](../react-assignment/src/assets/images/Cat-Around-Us.png)
 
 ## Live Demo
