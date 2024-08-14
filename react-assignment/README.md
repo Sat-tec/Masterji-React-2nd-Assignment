@@ -22,5 +22,5 @@ Displays random user data with a refresh button and loading state. Hyperlinks fo
 
 ## Live Demo
 
-You can check the liive demo [here](https://react-assignment.netlify.app).
+You can check the liive demo [here](https://react-second-assignment.netlify.app).
 
